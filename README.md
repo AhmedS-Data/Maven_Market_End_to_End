@@ -56,7 +56,7 @@ Maven_Market_End_to_End/
 │
 ├── Documentation/
 │   ├── Business_Understanding.md
-│   └── 02_Data_Cleaning_Documentation.md
+│   └── Data_Cleaning_Documentation.md
 │
 ├── Notebooks/
 │   ├── 01_Data_Exploration.ipynb
